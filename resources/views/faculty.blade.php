@@ -30,17 +30,27 @@
 </nav>
 <br>
     <div class="container">
-       <table class="table">
-         <tr>
+    <h5>FACULTY</h5>
+    <br>
+      <table class="table">
+      <tr>
              <td>Name</td>
              <td><input type="text" class="form-control"></td>
          </tr>
          <tr>
-             <td>Roll no</td>
+             <td>Department</td>
              <td><input type="text" class="form-control"></td>
          </tr>
          <tr>
-             <td>Admn no</td>
+             <td>Address</td>
+             <td><input type="text" class="form-control"></td>
+         </tr>
+         <tr>
+             <td>Phno</td>
+             <td><input type="text" class="form-control"></td>
+         </tr>
+         <tr>
+             <td>Educational Qualification</td>
              <td><input type="text" class="form-control"></td>
          </tr>
          <tr>
@@ -49,11 +59,14 @@
          </tr>
          <tr>
              <td></td>
-             <td><button class="btn btn-success">REGISTER</button></td>
+             <td><button class="btn btn-success">SUBMIT</button></td>
          </tr>
-         </table>
-    </div>
 
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js" integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0" crossorigin="anonymous"></script>  
+      
+      </table>
+    </div>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js" integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0" crossorigin="anonymous"></script>  
 </body>
 </html>
+
+
